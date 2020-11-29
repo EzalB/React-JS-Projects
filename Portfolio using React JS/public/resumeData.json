@@ -9,13 +9,11 @@
     "email": "rusheel1309@gmail.com",
     "phone": "+91 9106744604",
     "address": {
-      "street": "C-102 Heritage Skyz, Prahladnagar",
+      "street": "",
       "city": "Ahmedabad,",
       "state": "Gujarat, India",
       "zip": "- 380015"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
     "social": [
       {
         "name": "facebook",
@@ -65,8 +63,8 @@
       {
         "company": "The Sparks Foundation",
         "title": "GRIP - Graduate Rotational Internship Program",
-        "years": "September 2020 - Present",
-        "description": "Working as a Software Intern"
+        "years": "September 2020",
+        "description": "Software Intern"
       },
       {
         "company": "Internship Studio",
@@ -146,28 +144,28 @@
   "portfolio": {
     "projects": [
       {
+        "title": "eSend : Social Help",
+        "category": "BootStrap, PHP + MySQL",
+        "image": "gitcat.jpeg",
+        "url": "https://tsf-paymentgatewayintegration.000webhostapp.com/"
+      },
+      {
         "title": "Ristorante Con Fusion",
         "category": "Restaurant app built with ReactJS",
         "image": "gitcat.jpeg",
         "url": "https://github.com/EzalB/Frontend-web-with-React"
       },
       {
-        "title": "Acme Web Design",
-        "category": "Web app using HTML CSS",
-        "image": "gitcat.jpeg",
-        "url": "https://github.com/EzalB/Acme-Demo-Website"
-      },
-      {
         "title": "Marketing Campaign for Bank Products",
-        "category": "Machine Learning",
+        "category": "Machine Learning, Data Analysis",
         "image": "gitcat.jpeg",
         "url": "https://github.com/EzalB/Internship-Studio-ML"
       },
       {
-        "title": "BootStrap Demo App",
-        "category": "BootStrap Demo",
+        "title": "JavaScript Projects",
+        "category": "JavaScript",
         "image": "gitcat.jpeg",
-        "url": "https://github.com/EzalB/FrontEnd-Dev-BootStrap"
+        "url": "https://github.com/EzalB/JavaScript-Projects"
       }
     ]
   }
